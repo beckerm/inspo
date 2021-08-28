@@ -1,0 +1,35 @@
+{
+  "elements": [
+
+     {
+        "file": "names.txt",
+        "results": "1-2",
+        "enabled": 1
+     },
+     {
+        "file": "verbs.txt",
+        "results": "1-4",
+        "enabled": 1
+     },
+     {
+        "file": "objects.txt",
+        "results": "1-1",
+        "enabled": 0
+     },
+     {
+        "file": "animals.txt",
+        "results": "1-1",
+        "enabled": 0
+     },
+     {
+        "file": "places.txt",
+        "results": "1-1",
+        "enabled": 0
+     },
+     {
+        "file": "characters.txt",
+        "results": "0-1",
+        "enabled": 0
+     }
+  ]
+}
